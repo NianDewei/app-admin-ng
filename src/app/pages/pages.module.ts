@@ -26,7 +26,7 @@ import { FooterComponent } from '../shared/footer/footer.component';
     CommonModule,
     PagesRoutingModule,
 
-    // standalone components
+    // standalone component
     HeaderComponent,
     SidebarComponent,
     BreadcrumbComponent,
